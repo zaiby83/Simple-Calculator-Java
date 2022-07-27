@@ -1,2 +1,4 @@
 # Simple-Calculator-Java
-A Simple Calculator Application in Java
+How to run:
+
+Simply import the project in Eclipse or Visual Studio Code and build the app.
